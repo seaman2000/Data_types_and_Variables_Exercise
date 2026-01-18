@@ -1,4 +1,4 @@
-# 🧠 Python Fundamentals – Bonus Exam Exercises
+# 🖥 Python Fundamentals – Bonus Exam Exercises
 
 This repository contains solutions to **bonus exam exercises** from the  
 **SoftUni – Python Fundamentals** course.
@@ -15,11 +15,11 @@ The main goal is **understanding the logic and writing clean code**, not just pa
 
 ---
 
-## 📂 Tasks Overview
+## 📂 Overview of some of the Tasks
 
 ---
 
-### 🔤 `chars_to_string.py`
+### ☑️ [`chars_to_string.py`](chars_to_string.py)
 Combines three characters into a single string.
 
 **Input:**
@@ -34,7 +34,7 @@ abc
 ```
 ---
 
-### 🛗 `elevator.py`
+### ☑️ [`elevator.py`](elevator.py)
 Calculates how many elevator courses are needed to transport people.
 
 **Input:**
@@ -48,7 +48,7 @@ Calculates how many elevator courses are needed to transport people.
 ```
 ---
 
-### ⚔️ `gladiator_expenses.py`
+### ☑️ [`gladiator_expenses.py`](gladiator_expenses.py)
 Calculates the total expenses for repairing gladiator equipment after lost fights.
 
 **Input:**
@@ -65,7 +65,7 @@ Gladiator expenses: 16.00 aureus
 ```
 ---
 
-### 🔢 `part_of_the_ascii_table.py`
+### ☑️ [`part_of_the_ascii_table.py`](part_of_the_ascii_table.py)
 Prints characters from the ASCII table within a given range.
 
 **Input:**
@@ -79,7 +79,7 @@ Prints characters from the ASCII table within a given range.
 ```
 ---
 
-### 🚰 `water_overflow.py`
+### ☑️ [`water_overflow.py`](water_overflow.py)
 You have a water tank with a capacity of 255 liters. On the first line, you will receive n – the number of lines, which will follow. On the following n lines, you will receive liters of water (integers), 
 which you should pour into your tank. If the capacity is not enough, print "Insufficient capacity!" and continue reading the next line. On the last line, print the liters in the tank.
 
@@ -96,7 +96,7 @@ which you should pour into your tank. If the capacity is not enough, print "Insu
 ```
 Overflow!
 ```
-### 🎉 `party_profit.py`
+### ☑️ [`party_profit.py`](party_profit.py)
 Calculates party profit based on days, companions, and events.
 
 **Input:**
