@@ -79,7 +79,7 @@ Prints characters from the ASCII table within a given range.
 ```
 ---
 
-###  `water_overflow.py`
+### 🚰 `water_overflow.py`
 You have a water tank with a capacity of 255 liters. On the first line, you will receive n – the number of lines, which will follow. On the following n lines, you will receive liters of water (integers), 
 which you should pour into your tank. If the capacity is not enough, print "Insufficient capacity!" and continue reading the next line. On the last line, print the liters in the tank.
 
@@ -96,13 +96,8 @@ which you should pour into your tank. If the capacity is not enough, print "Insu
 ```
 Overflow!
 ```
-### `party_profit.py`
-You will receive a group size. After that, you receive the days of the adventure. 
-Every day, you earn 50 coins, but you also spend 2 coins per companion for food. 
-Every 3rd (third) day, you organize a motivational party, spending 3 coins per companion for drinking water. 
-Every 5th (fifth) day, you slay a boss monster and gain 20 coins per companion. But if you have a motivational party the same day, you spend an additional 2 coins per companion. 
-Every 10th (tenth) day at the start of the day, 2 (two) of your companions leave, but every 15th (fifteenth) day 5 (five) new companions are joined at the beginning of the day.
-You should calculate how many coins gets each companion at the end of the adventure.
+### 🎉 `party_profit.py`
+Calculates party profit based on days, companions, and events.
 
 **Input:**
 ```
@@ -113,3 +108,17 @@ You should calculate how many coins gets each companion at the end of the advent
 ```
 5 companions received 50 coins each.
 ```
+---
+
+## 🎯 Purpose
+
+- Practice Python fundamentals
+- Improve problem-solving skills
+- Learn to handle edge cases
+- Write clean and readable code
+- Get comfortable working with GitHub repositories
+
+---
+
+> _“Readability counts.”_  
+> — The Zen of Python
